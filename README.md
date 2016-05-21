@@ -16,7 +16,7 @@ For example:
     </div><!-- .small -->
   </div><!-- #large -->
 </section>
-```
+
 
 [ Setup ]
 
@@ -61,7 +61,6 @@ Inside the 'main_content' div, create a new section element. Inside this section
 ```
 Cosmos. Hearts of the stars Euclid. Worldlets a mote of dust suspended in a sunbeam tesseract Tunguska event, intelligent beings laws of physics radio telescope trillion cosmic ocean. Tendrils of gossamer clouds inconspicuous motes of rock and gas, globular star cluster hydrogen atoms star stuff harvesting star light take root and flourish galaxies Euclid with pretty stories for which there's little good evidence encyclopaedia galactica, Hypatia! As a patch of light Flatland stirred by starlight circumnavigated extraordinary claims require extraordinary evidence tesseract!
 ```
-
 [ 10 ]
 Add another level 3 heading with the text 'Saturn's Many Moons' and then the following unordered list:
 
@@ -130,6 +129,7 @@ Provisional Moons
   S/2007 S3 
   S/2009 S1 
 ```
+
 [ 11 ] Add another Paragraph with the text:
 
 ```
@@ -141,7 +141,9 @@ Galaxies. Descended from astronomers Jean-François Champollion Rig Veda. From w
 Wrap the first word for each paragraph a span ('Cosmos.' and 'Galaxies.') Then close the first section.
 
 Commit your work.
-
+<!-- WORKING RIGHT HERE -->
+<!-- WORKING RIGHT HERE -->
+<!-- WORKING RIGHT HERE -->
 [ 13 ] 
 Still inside the 'main_content' div, create a second section element. Inside this section element, create a level 3 heading tag with the text content of "Cosmic Fugue". After the level 3 heading, create the following paragraph, and again, wrap the first word 'Birth.' in a span:
 
